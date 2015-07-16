@@ -21,3 +21,6 @@ _NCrunch_*
 
 # NuGet
 **/packages/*
+
+# SpecFlow
+*.feature.cs
